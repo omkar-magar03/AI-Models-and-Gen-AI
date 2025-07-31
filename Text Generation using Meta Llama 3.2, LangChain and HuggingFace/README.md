@@ -29,7 +29,7 @@ pip install langchain transformers langchain-huggingface
 
 ## 🚀 Usage
 
-1. **Clone or download** this repository and open the notebook: `testing_langchain_using_meta_llama_3_2.ipynb`
+1. **Clone or download** this repository and open the notebook: `main.ipynb`
 2. **Run all cells** in order.
 3. **Check GPU availability** (printed in notebook output).
 4. **Download and initialize** the Meta Llama 3.2 model.
